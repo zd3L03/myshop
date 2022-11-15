@@ -1,10 +1,14 @@
 # プロジェクト概要
 ## 目的
 HTMLとCSSの練習  
- -cssが苦手なため  
- -aaihiue  
+- 苦手なため  
+- humuhumu  
 
-自身が運営しているお店の宣伝
+自身が運営しているお店の宣伝  
+1. aiueo  
+   aaaaa  
+   iiiii
+2. kakikukeko
 
 ## ファイル構成
 | ファイル名 | 説明  |
